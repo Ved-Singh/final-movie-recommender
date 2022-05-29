@@ -67,4 +67,5 @@ $ git lfs install
 ```
 streamlit run app.py
 ```
-
+#### You can also run the website by [movie-recommender-vaidehi](https://share.streamlit.io/ved-singh/deploy-recommender/main/app.py) 
+website might take some time to show recommended movies due to complex computation or because of free streamlit cloud server.
