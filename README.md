@@ -60,8 +60,6 @@ $ ./install.sh
 $ git lfs install
 > Git LFS initialized.
 
-$ git clone git@github.com:Ved-Singh/final-movie-recommender.git
-
 ```
 #### 4. fork the repo than clone using git clone link
 #### 5. To run this project open the files in any IDE(VSCode preferred) and in the terminal run:
