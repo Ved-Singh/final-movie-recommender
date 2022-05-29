@@ -37,11 +37,11 @@ You need to install LFS in your pc/laptop before cloning this repo, else the fil
 
 ##### For windows :
 
-* Navigate to [Github LFS](git-lfs.github.com) and click Download.
+* Navigate to [Github LFS](https://git-lfs.github.com/) and click Download.
 * When you open this file, Windows will run a setup wizard to install Git LFS.
 
 ##### For Mac/Linux :
-* You can Navigate to [Github LFS](git-lfs.github.com) and click Download.
+* You can Navigate to [Github LFS](https://git-lfs.github.com/) and click Download.
 * Then locate and unzip the file. On terminal change the current working directory into the folder you downloaded and unzipped.
 * To install the file, run this command:
 ```
