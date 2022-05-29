@@ -67,5 +67,5 @@ $ git lfs install
 ```
 streamlit run app.py
 ```
-#### You can also run the website here : [movie-recommender-vaidehi](https://share.streamlit.io/ved-singh/deploy-recommender/main/app.py) 
+## If you are getting error while cloning due to large files, you can also run the website here : [movie-recommender-vaidehi](https://share.streamlit.io/ved-singh/deploy-recommender/main/app.py) 
 The website might take some time to show recommended movies due to complex computation or because of free streamlit cloud service.
