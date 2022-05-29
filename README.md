@@ -61,11 +61,11 @@ $ git lfs install
 > Git LFS initialized.
 
 ```
-#### 4. fork the repo than clone using git clone link
+#### 4. First fork the repo then clone using git clone link.
 #### 5. To run this project open the files in any IDE(VSCode preferred) and in the terminal run:
 
 ```
 streamlit run app.py
 ```
-#### You can also run the website by [movie-recommender-vaidehi](https://share.streamlit.io/ved-singh/deploy-recommender/main/app.py) 
-website might take some time to show recommended movies due to complex computation or because of free streamlit cloud server.
+#### You can also run the website here : [movie-recommender-vaidehi](https://share.streamlit.io/ved-singh/deploy-recommender/main/app.py) 
+The website might take some time to show recommended movies due to complex computation or because of free streamlit cloud service.
